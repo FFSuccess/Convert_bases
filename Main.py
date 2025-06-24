@@ -1,7 +1,3 @@
-from email.errors import BoundaryError
-from webbrowser import Error
-
-
 def get_int_input(message):
     while True:
         try:
